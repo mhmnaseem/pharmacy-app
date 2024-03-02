@@ -3,9 +3,10 @@
 
 ## setup Laravel
 
-1. composer install - install all dependencies
-2. run this migration and seeding command - php artisan migrate:fresh --seed
-3. logins API to view data which are protected with using sanctum Bearer token provide by the system
+1. after download the git repo copy env.eample to .env file
+2. composer install - install all dependencies
+3. run this migration and seeding command - php artisan migrate:fresh --seed
+4. logins API to view data which are protected with using sanctum Bearer token provide by the system
 
 logins with password: 
 1. 
