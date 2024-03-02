@@ -11,15 +11,15 @@
 
 logins with password: 
 1. 
-'email' => 'owner@example.com',
- password =>  password
+"username":"owner",
+"password":"password"
 
 2.
-  'email' => 'manager@example.com',
+  'username' => 'manager',
   password =>  password
 
 3.
- 'email' => 'cashier@example.com',
+ 'username' => 'cashier',
   password => password
 
 spatie/laravel-permission package used for authorization 
